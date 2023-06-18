@@ -4,7 +4,7 @@
 //CONSIGNA: crear una obra OP ART* interactiva** con
 //estructuras repetitivas (ciclos flor) y funciones propias.
 //Profesor: David Bedoian
-//link del video: 
+//link del video: https://youtu.be/iMyQK1IRiDg
 // 
 
 
